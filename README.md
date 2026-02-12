@@ -8,7 +8,8 @@ This repository serves as a digital archive for my professional certifications, 
 | :--- | :--- | :--- | :--- | 
 | **Data Analytics Essentials** | Cisco Networking Academy | Jan 29, 2026 | [View PDF](./Data%20Analytics%20Essentials.pdf) | 
 
-**Skills Validated:** * Data transformation and preparation using **Excel, SQL, and Tableau**. 
+**Skills Validated:** 
+* Data transformation and preparation using **Excel, SQL, and Tableau**. 
 * Proficient in explaining the data analytics process to create business value. 
 
 --- 
@@ -19,7 +20,8 @@ This repository serves as a digital archive for my professional certifications, 
 | :--- | :--- | :--- | :--- | 
 | **Finalist: Business Case Competition** | Oil Week 2025 X Algatek | 2025 | [View PDF](./OilWeek%20Finalist.pdf) | 
 
-**Key Details:** * Represented as a finalist in a high-level business case challenge hosted by the **Society of Petroleum Engineers (SPE) UI SC**. 
+**Key Details:** 
+* Represented as a finalist in a high-level business case challenge hosted by the **Society of Petroleum Engineers (SPE) UI SC**. 
 
 --- 
 
@@ -29,6 +31,7 @@ This repository serves as a digital archive for my professional certifications, 
 | :--- | :--- | :--- | :--- | 
 | **English Proficiency Test (EPT)** | LBI Universitas Indonesia | **570** (TOEFL® Equiv.) | Sept 2023 | 
 
-**Breakdown:** * Achieved a **Grade A** in the University Compulsory Foundation Course. 
+**Breakdown:** 
+* Achieved a **Grade A** in the University Compulsory Foundation Course. 
 * Strong performance in Listening (62), Structure (55), and Reading (54). 
 * [View Certificate](./EPT_CERTIFICATE.pdf)
